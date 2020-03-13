@@ -251,7 +251,7 @@ h1, h2, h3, h4, h5,
   .ul-check.success li:before {
     color: #8bc34a; }
   .ul-check.primary li:before {
-    color: #32dbc6; }
+    color: #e26241; }
 
 .select-wrap, .wrap-icon {
   position: relative; }
@@ -1310,7 +1310,7 @@ h1, h2, h3, h4, h5,
     bottom: 0;
     width: 80px;
     height: 3px;
-    background: #32dbc6; }
+    background: #e26241; }
   .border-primary.text-center:after {
     left: 50%;
     -webkit-transform: translateX(-50%);

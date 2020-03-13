@@ -2402,13 +2402,13 @@ a.btn.disabled, fieldset:disabled a.btn {
 .btn-primary {
   color: #212529;
   background-color: #e26241;
-  border-color: #32dbc6
+  border-color: #e26241
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #22c4b0;
-  border-color: #21b9a6
+  background-color: #e26241;
+  border-color: #e26241
 }
 
 .btn-primary.focus, .btn-primary:focus {
